@@ -107,3 +107,14 @@ nav ul li a{
     padding: 1rem 0.5rem 2rem;
     text-align: center;
 }
+#footer{
+    padding: 2rem 0;
+    background-color: #457EFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#footer p{
+    color: white    ;
+}
